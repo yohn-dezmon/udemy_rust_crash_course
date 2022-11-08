@@ -2,7 +2,7 @@ use c_simple_types::print_difference;
 use c_simple_types::print_array;
 use c_simple_types::ding;
 use c_simple_types::on_off;
-// use c_simple_types::print_distance;
+use c_simple_types::print_distance;
 
 
 
@@ -54,7 +54,7 @@ fn main() {
     // output. Then go refactor the print_distance() function according to the
     // instructions in the comments inside that function.
 
-    // print_distance(coords);
+    print_distance(coords);
 }
 
 
