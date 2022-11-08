@@ -1,9 +1,5 @@
-use c_simple_types::print_difference;
-use c_simple_types::print_array;
-use c_simple_types::ding;
-use c_simple_types::on_off;
-use c_simple_types::print_distance;
-
+// you can import all of the functions from the same source like: 
+use c_simple_types::{print_difference, print_array, ding, on_off, print_distance};
 
 
 fn main() {
